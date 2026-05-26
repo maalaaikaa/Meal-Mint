@@ -1,7 +1,15 @@
-# MealMint
+# MealMint 🍳
 
-A new Flutter project.
+AI Smart Recipe Finder App built with Flutter.
 
-## Getting Started
+## Features
+- Recipe search
+- AI ingredient suggestions
+- Favorites
+- Clean UI
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+## Tech Stack
+- Flutter
+- Supabase
+- Gemini API
+- MealDB API
